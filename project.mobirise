@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Peakits",
-    "currentPage": "SpeciesSelect.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -48,8 +48,8 @@
         "url": "https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i"
       }
     ],
-    "favicon": "@PROJECT_PATH@/assets/images/11455152.png",
-    "mbrsiteDomain": "fg1zqcfcmn",
+    "favicon": false,
+    "mbrsiteDomain": "doievrpgsj",
     "imageResize": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -59,7 +59,8 @@
     "gdpr": false,
     "uniqCompNum": 24,
     "versionPublish": "5.4.1",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "witsec-white-label": true
   },
   "pages": {
     "index.html": {
