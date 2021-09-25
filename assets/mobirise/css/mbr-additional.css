@@ -807,7 +807,7 @@ a {
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
   position: absolute;
-  background: rgba(35, 35, 35, 0.9);
+  background: rgba(35, 35, 35, 0.5);
 }
 .cid-sJuK74zake .navbar.opened {
   transition: all 0.3s;
@@ -983,7 +983,7 @@ a {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #000000;
+  background-color: #ffffff;
 }
 .cid-sJuK74zake button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1173,7 +1173,7 @@ a {
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
   position: absolute;
-  background: rgba(35, 35, 35, 0.9);
+  background: rgba(35, 35, 35, 0.5);
 }
 .cid-sJuK74zake .navbar.opened {
   transition: all 0.3s;
@@ -1349,7 +1349,7 @@ a {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #000000;
+  background-color: #ffffff;
 }
 .cid-sJuK74zake button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1539,7 +1539,7 @@ a {
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
   position: absolute;
-  background: rgba(35, 35, 35, 0.9);
+  background: rgba(35, 35, 35, 0.5);
 }
 .cid-sJuK74zake .navbar.opened {
   transition: all 0.3s;
@@ -1715,7 +1715,7 @@ a {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #000000;
+  background-color: #ffffff;
 }
 .cid-sJuK74zake button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
