@@ -1539,7 +1539,7 @@ a {
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
   position: absolute;
-  background: rgba(35, 35, 35, 0.5);
+  background: rgba(35, 35, 35, 0.9);
 }
 .cid-sJuK74zake .navbar.opened {
   transition: all 0.3s;
